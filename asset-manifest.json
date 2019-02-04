@@ -1,14 +1,13 @@
 {
-  "main.css": "/Titosverify/static/css/main.198dd5a4.chunk.css",
-  "main.js": "/Titosverify/static/js/main.e22cec7b.chunk.js",
-  "main.js.map": "/Titosverify/static/js/main.e22cec7b.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/Titosverify/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/Titosverify/static/js/1.4a34e45d.chunk.js.map",
+  "main.css": "/Titosverify/static/css/main.4b99be81.chunk.css",
+  "main.js": "/Titosverify/static/js/main.ef3df4ab.chunk.js",
+  "main.js.map": "/Titosverify/static/js/main.ef3df4ab.chunk.js.map",
+  "static/js/1.ac9ae1ed.chunk.js": "/Titosverify/static/js/1.ac9ae1ed.chunk.js",
+  "static/js/1.ac9ae1ed.chunk.js.map": "/Titosverify/static/js/1.ac9ae1ed.chunk.js.map",
   "runtime~main.js": "/Titosverify/static/js/runtime~main.e6457f4f.js",
   "runtime~main.js.map": "/Titosverify/static/js/runtime~main.e6457f4f.js.map",
-  "static/media/logo.svg": "/Titosverify/static/media/logo.5d5d9eef.svg",
-  "static/css/main.198dd5a4.chunk.css.map": "/Titosverify/static/css/main.198dd5a4.chunk.css.map",
+  "static/css/main.4b99be81.chunk.css.map": "/Titosverify/static/css/main.4b99be81.chunk.css.map",
   "index.html": "/Titosverify/index.html",
-  "precache-manifest.c08fc5a6769521491ef7434a31e637e2.js": "/Titosverify/precache-manifest.c08fc5a6769521491ef7434a31e637e2.js",
+  "precache-manifest.a7587b0500b31c16f7cb51b9c10b6179.js": "/Titosverify/precache-manifest.a7587b0500b31c16f7cb51b9c10b6179.js",
   "service-worker.js": "/Titosverify/service-worker.js"
 }
